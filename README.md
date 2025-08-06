@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGUyZGRldHdxN2c1ajduY3Bwanp6MncwY2hib2Z4cGI4djh5ZXg0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgbAtUv07WAW4/giphy.gif" width="1000px"/>
 <!--
 **akmxtrA/akmxtrA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
